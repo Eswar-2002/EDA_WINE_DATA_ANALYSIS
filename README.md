@@ -1,4 +1,4 @@
-his project explores the Wine Quality dataset to understand which chemical properties influence the overall quality of wine. Using Python-based analytical techniques, the project dives into trends, correlations, patterns, and visual insights that help explain what makes a wine “high quality.”
+This project explores the Wine Quality dataset to understand which chemical properties influence the overall quality of wine. Using Python-based analytical techniques, the project dives into trends, correlations, patterns, and visual insights that help explain what makes a wine “high quality.”
 
 🔍 Objective of the Study
 
